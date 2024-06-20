@@ -1,3 +1,0 @@
-# starbucks-kiosk
-
-hi
